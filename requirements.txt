@@ -20,3 +20,4 @@ pyyaml
 requests
 beautifulsoup4
 lxml
+torch
